@@ -1,0 +1,10 @@
+[
+    {
+      "ParameterKey": "EnvironmentName",
+      "ParameterValue": "ChinenyeUdacityBucket"
+    },
+    {
+      "ParameterKey": "BucketName",
+      "ParameterValue": "chinenye-3992-7271-1593-bucket"
+    }
+  ]

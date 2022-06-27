@@ -1,0 +1,6 @@
+Lucid chart diagram
+
+https://lucid.app/lucidchart/e20e2bed-69b2-4104-8ccb-e1bc3886d429/edit?viewport_loc=31%2C92%2C1523%2C692%2C0_0&invitationId=inv_e13ae29b-4f04-4772-acd1-2023925971c7#
+
+Load balancer url
+http://myser-WebAp-1QAFVQ9NTD7KV-419619506.us-east-1.elb.amazonaws.com
