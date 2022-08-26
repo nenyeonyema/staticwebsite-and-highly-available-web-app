@@ -1,5 +1,4 @@
-# Cloud-Devops-Projects
-This Repository contains DevOps projects for the ALX-Udacity Nano Degree Cloud DevOps course.
+## This Repository contains DevOps projects for the ALX-Udacity Nano Degree Cloud DevOps course.
 
 ## Project1--> Static Website.
 This Project was deployed using Amazon Cloudfront service. It contains the following snapshots:
